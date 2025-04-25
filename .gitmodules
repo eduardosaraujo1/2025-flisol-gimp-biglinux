@@ -1,0 +1,3 @@
+[submodule "flisol_mongagua"]
+	path = flisol_mongagua
+	url = https://gitlab.com/Kleyton/flisol_mongagua.git
